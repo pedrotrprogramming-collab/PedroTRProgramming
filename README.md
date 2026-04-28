@@ -9,30 +9,30 @@
 
 <br>👋 Hey, I'm Pedro Torres Ramos. 
 
-🧠 Aspiring Neuroengineer (yeah, brain + tech = magic)
-💻 I write code… sometimes it works, sometimes I learn
-☕ Powered mostly by RedBull and curiosity
-🏥 I am Neurophisiologist and Biomedical Engineering student
+🧠 Aspiring Neuroengineer (yeah, brain + tech = magic) <br>
+💻 I write code… sometimes it works, sometimes I learn <br>
+☕ Powered mostly by RedBull and curiosity <br>
+🏥 I am Neurophisiologist and Biomedical Engineering student <br>
 
 ### 🚀 About Me
 🔬 Interested in AI, the brain, and technology <br>
 🧩 I like understanding how things work (and breaking them in the process) <br>
 🛠️ Always building projects… or at least starting them 😅 <br>
-🌍 Trying to make the world a bit more interesting<br>
+🌍 Trying to make the world a bit more interesting <br>
 
 ### 🧪 Currently
-Learning about Neuroengineering
-Experimenting with code, ideas, and useful mistakes
-Trying not to overthink EVERYTHING
+Learning about Neuroengineering <br>
+Experimenting with code, ideas, and useful mistakes <br>
+Trying not to overthink EVERYTHING <br>
 
 ### ⚡ Fun Facts
-🧠 I think the brain is the most interesting hardware out there
-💤 My best ideas come when I’m not working
-🎯 50% coding, 50% debugging, 100% confusion
+🧠 I think the brain is the most interesting hardware out there <br>
+💤 My best ideas come when I’m not working <br>
+🎯 50% coding, 50% debugging, 100% confusion <br>
 
 ### 📫 Contact
 GitHub: right here 👀 <br>
 Email: pedrotrprogramming@gmail.com <br>
-LinkedIn: [Pedro Torres Ramos](https://www.linkedin.com/in/pedro-torres-ramos-3ba073234)
+LinkedIn: [Pedro Torres Ramos](https://www.linkedin.com/in/pedro-torres-ramos-3ba073234) <br>
 
 “If it works, don’t touch it. If it doesn’t… maybe don’t touch it either.”
