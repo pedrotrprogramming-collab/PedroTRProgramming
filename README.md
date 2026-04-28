@@ -1,2 +1,2 @@
-# PedroTRProgramming
+# PedroTR.Programming
 ### Hi there👋
