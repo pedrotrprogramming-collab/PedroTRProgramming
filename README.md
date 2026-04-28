@@ -17,7 +17,7 @@
 ### 🚀 About Me
 🔬 Interested in AI, the brain, and technology <br>
 🧩 I like understanding how things work (and breaking them in the process) <br>
-🛠️ Always building projects… or at least starting them 😅 when not, I run<br>
+🛠️ Always building projects… or at least starting them 😅 <br>
 🌍 Trying to make the world a bit more interesting <br>
 
 ### 🧪 Currently
