@@ -12,9 +12,11 @@
 🧠 Aspiring Neuroengineer (yeah, brain + tech = magic) <br>
 💻 I write code… sometimes it works, sometimes I learn <br>
 ☕ Powered mostly by RedBull and curiosity <br>
-🏥 I am Neurophisiologist and Biomedical Engineering student <br>
+
 
 ### 🚀 About Me
+🩺 Medical doctor from the University of Salamanca — fluent in medicine, caffeine, and last-minute study sessions <br>
+🏥 I am Neurophisiologist and Biomedical Engineering student <br>
 🔬 Interested in AI, the brain, and technology <br>
 🧩 I like understanding how things work (and breaking them in the process) <br>
 🛠️ Always building projects… or at least starting them 😅 <br>
