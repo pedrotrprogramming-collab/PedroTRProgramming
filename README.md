@@ -16,13 +16,13 @@
 
 ### 🚀 About Me
 🩺 Medical doctor from the University of Salamanca — fluent in medicine, caffeine, and last-minute study sessions <br>
-🏥 I am Neurophisiologist and Biomedical Engineering student <br>
 🔬 Interested in AI, the brain, and technology <br>
 🧩 I like understanding how things work (and breaking them in the process) <br>
 🛠️ Always building projects… or at least starting them 😅 <br>
 🌍 Trying to make the world a bit more interesting <br>
 
 ### 🧪 Currently
+🏥 I am Neurophisiologist and Biomedical Engineering student <br>
 🤖Learning about Neuroengineering <br>
 👨‍💻Experimenting with code, ideas, and useful mistakes <br>
 🤔Trying not to overthink EVERYTHING <br>
