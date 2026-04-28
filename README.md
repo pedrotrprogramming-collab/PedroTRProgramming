@@ -31,8 +31,8 @@ Trying not to overthink EVERYTHING
 🎯 50% coding, 50% debugging, 100% confusion
 
 ### 📫 Contact
-GitHub: right here 👀 <>br
+GitHub: right here 👀 <br>
 Email: pedrotrprogramming@gmail.com <br>
-LinkedIn: Pedro Torres Ramos(https://www.linkedin.com/in/pedro-torres-ramos-3ba073234)
+LinkedIn: [Pedro Torres Ramos](https://www.linkedin.com/in/pedro-torres-ramos-3ba073234)
 <br>
 “If it works, don’t touch it. If it doesn’t… maybe don’t touch it either.”
