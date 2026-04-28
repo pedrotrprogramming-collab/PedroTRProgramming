@@ -7,6 +7,8 @@
   </picture>
 </a>
 
+
+
 👋 Hey, I'm Pedro Torres Ramos. 
 
 🧠 Aspiring Neuroengineer (yeah, brain + tech = magic)
