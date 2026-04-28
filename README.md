@@ -23,7 +23,7 @@
 ### 🧪 Currently
 🤖Learning about Neuroengineering <br>
 👨‍💻Experimenting with code, ideas, and useful mistakes <br>
-<img width="160" height="160" alt="thinking-face_1f914" src="https://github.com/user-attachments/assets/bcc93718-299f-464d-8904-c880763f56c2" />Trying not to overthink EVERYTHING <br>
+🤔Trying not to overthink EVERYTHING <br>
 
 ### ⚡ Fun Facts
 🧠 I think the brain is the most interesting hardware out there <br>
