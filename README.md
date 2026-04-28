@@ -39,3 +39,6 @@ LinkedIn: [Pedro Torres Ramos](https://www.linkedin.com/in/pedro-torres-ramos-3b
 
 ---
 “If it works, don’t touch it. If it doesn’t… maybe don’t touch it either.”
+---
+## Projects
+Working on them!🔧
